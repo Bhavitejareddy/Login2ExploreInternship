@@ -45,17 +45,20 @@ Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, th
    <li> BootStrap Knowledge</li>
  </ul>
  <h2>Using JsonPowerDB - The Serveless Way</h2>
- <p>JsonPowerDB advocates for Serverless development by eliminating the need of intermediate programming languages like Python / PHP / Java / .NET etc. In turn this will improve the performance of your application by reducing a cycle of latency. It does not mean that you can't use it with these programming languages.
+ <p>JsonPowerDB advocates for Serverless development by eliminating the need of intermediate programming languages like Python / PHP / Java / .NET etc. In turn this will improve the performance of your application by reducing a cycle of latency. It does not mean that you can't use it with these programming languages.<br>
              It is even easier to use it with Python/ PHP / Java / .NET or any programming language. You are not required to install any driver / plugin to connect to JsonPowerDB which you normally require to connect to other DBMS. The reason behind this is JsonPowerDB is natively HTTP Rest API based JSON document oriented DBMS.</p>
-         <h2> Project Done </h2>
-         <h3>Employee Form with Navigation and more Control Buttons</h3>
+         <h3> Project Done: Employee Form with Navigation and more Control Buttons </h3>
          <p>You are required to complete the following exercise using HTML, JavaScript and Bootstrap.
-
-    Create an employee form as per the video given below. The form has different navigation buttons available to navigate through the form : [First,  Previous, Next, Last] records, and different control buttons to perform different operation on the form : [New, Save, Edit, Change, Reset].
+    Create an employee form.<br>
+   The form has different navigation buttons available to navigate through the form : [First,  Previous, Next, Last] records, and different control buttons to perform different operation on the form : [New, Save, Edit, Change, Reset].
 </p>
-
 <h2> Session Management Using JsonPowerDB </h2>
 <h3> Project Done : HR Admin DashBoard </h3>
+<p>HR Admin Dashboard - Making all the functionality working in all the pages and learning session management using local storage.
+
+          Make functionality of each loggedIn and loggedOut pages by connecting it with JsonPowerDB.
+Confirm that employee form is same as created in Full navigation with Controls.
+For forget password page send random password through email by using the function createEmailToSendReq() to create request and use executeCommand() to execute the request  from jpdb-commons.js </p>
 <h2> More Useful JPDB Commands </h2>
 <p> Practice some useful commands of JPDB. It will help you to complete the test.
 
