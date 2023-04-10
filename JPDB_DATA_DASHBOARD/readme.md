@@ -4,10 +4,7 @@ Drive Link
 
 https://drive.google.com/file/d/1t5gvloyIbvdA8aX7H8iXzoM4KBTFCKmz/view?usp=sharing
 
- # Brief Description of the project
 
-
-WebPage connected to JsonPowerDB with many features such as
    
    # Table of contents
    
@@ -23,31 +20,45 @@ Release History
 
 Release Notes 
 
+ # Brief Description of the project
+
+You are required to develop a JsonPowerDB tool which eases the data navigation, addition, modification and removal of data or records in the database. This will help developers in development as well as debugging their application.
+
+There are 4 pages to be developed:
+
+    Home Page: That will allow the user / developer to enter his token.
+    Table Page: That will display data of selected relation (table) of selected database and allows user / developer to:
+            Easily navigate, add, modify and remove records in relation.
+            Provide data to export in different formats like CSV, Excel, PDF.
+            Allow users to print the table data on the printer.
+            Search option to filter records based on search key.
+
+    Form Page: A data entry form with full navigation control buttons.
+    Filter Page (optional): To filter out records in 'Table' by applying conditions
 # Index Page
 
 Enter Valid token to access
 
-![image](https://user-images.githubusercontent.com/68528688/190888912-d455ebc4-84f0-4a42-b215-bcb5adb1112c.png)
+<img src ="https://user-images.githubusercontent.com/91979040/230964143-3c6f6863-e455-4575-98ba-9dac0e545c00.png">
+
 
 # Home page
 * currently under work UI made but needs improvement
 Sidebar added 
 backend yet not working
-![image](https://user-images.githubusercontent.com/68528688/190888942-7808449d-966f-4f01-b40c-2a80f9fc8547.png)
+<img src = "https://user-images.githubusercontent.com/91979040/230964225-56fe0998-0406-42fe-8443-12a592ca05ad.png">
 
 #Form page
 Working
 can fetch and edit employee form 
 Backend working
 *Yet can not pass value to table page will do in future
-![image](https://user-images.githubusercontent.com/68528688/190888973-0414ff50-7aa2-474e-8f6a-65bf8fff0b83.png)
+<img src ="https://user-images.githubusercontent.com/91979040/230964314-928a6970-2f79-4ea8-9aff-add0b655a91c.png">
+
 
 #form database
-![image](https://user-images.githubusercontent.com/68528688/190889013-8cd41af2-8a50-4ce0-9a27-e744045f49bc.png)
+<img src="https://user-images.githubusercontent.com/91979040/230964400-33abe96c-03b1-4080-85ad-570b76ab391d.png">
 
-Demo
-[![Watch the video](![image](https://user-images.githubusercontent.com/68528688/190889942-4b96a28d-fb94-4d30-84f0-cc610b0f8392.png)
-)](https://youtu.be/KWAIeqUiTPU)
 
 # Release History
 
