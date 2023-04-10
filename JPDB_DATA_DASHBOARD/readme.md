@@ -1,6 +1,6 @@
 ### JPDB DATA DASHBOARD
 
-Drive Link
+Loom Link
 
 https://www.loom.com/share/695c71da3cb043249b6e380ccfbfcbc2
 
