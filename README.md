@@ -86,3 +86,15 @@ https://login2explore.com/jpdb/docs.html
 <p>The Following Sources are used for doing this Internship :<br>
 <a href="https://login2explore.com/jpdb/docs.html">Documentation Link</a><br>
 <a href="https://www.simplilearn.com/tutorials/git-tutorial/what-is-github"> Github</a>
+
+## Certificate : 
+<h3>Internship Completed Certification</h3>
+
+![image](https://github.com/user-attachments/assets/165e0420-cb92-4769-8428-2e31a18848f5)
+
+<h3>JsonPowerDB Certified Developer</h3>
+
+![image](https://github.com/user-attachments/assets/71f1231d-2c05-4eb7-8089-6e24ba026a2d)
+
+
+
